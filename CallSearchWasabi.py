@@ -99,16 +99,6 @@ def load_settings():
             "AccessKey": " ",
             "SecretKey": " ",
             "BucketName": " "
-        },
-        "SQL_Tables": [
-            "Connex1",
-            "F9CRMigRecordings",
-            "F9CRMigUploads",
-            "F9CROSPVoice",
-            "F9CRUploads",
-            "OSPVoice",
-            "Recordings",
-            "Uploads"
         ],
         "enable_logging": False,
         "DefaultSaveLocation": "C:/default/path"
@@ -153,16 +143,6 @@ DEFAULT_SETTINGS = {
         "AccessKey": "YourWasabiAccessKey",
         "SecretKey": "YourWasabiSecretKey",
         "BucketName": "YourBucketName"
-    },
-    "SQL_Tables": [
-        "Connex1",
-        "F9CRMigRecordings",
-        "F9CRMigUploads",
-        "F9CROSPVoice",
-        "F9CRUploads",
-        "OSPVoice",
-        "Recordings",
-        "Uploads"
     ],
     "enable_logging": False,
     "DefaultSaveLocation": "C:/default/path"
